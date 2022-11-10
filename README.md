@@ -16,6 +16,7 @@ Clone the below repo and compile the file into an exectable file using the GCC c
 ```
 https://github.com/Hsppie/simple_shell.git.
 ```
+
 ## Environment
 This shell has been built and tested on Ubuntu 20.04 LTS.
 ### contributor
